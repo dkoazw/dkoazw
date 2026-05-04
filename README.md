@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/icegif-6227.gif" width="400" alt="GIF"/>
+  <img src="https://tenor.com/bon8N.gif" width="400" alt="GIF"/>
 </div>
 <!--
 **dkoazw/dkoazw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
